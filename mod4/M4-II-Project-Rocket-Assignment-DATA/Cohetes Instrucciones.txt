@@ -1,0 +1,9 @@
+Los archivos muestran la posicion del cohete (en pixeles) respecto al tiempo. Hay cinco cohetes, una prueba lenta y rapida para cada cohete, lo cual nos da un total de 10 archivos.
+
+Las muestras de la posicion se tomaron a una velocidad de
+Velocidad de video
+6250 fotogramas / segundo
+
+La calibracion de pixeles a dimensiones esta dada por
+Escala fisica:
+47.0027 pixeles/pulgadas
