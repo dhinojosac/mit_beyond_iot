@@ -1,0 +1,1 @@
+datain = xlsread('manufacturingqualitydata.xlsx');
